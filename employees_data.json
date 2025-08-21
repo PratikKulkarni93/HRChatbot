@@ -1,0 +1,478 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": [
+        "Python",
+        "React",
+        "AWS",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "E-commerce Platform",
+        "Healthcare Dashboard",
+        "Customer Analytics"
+      ],
+      "availability": "available",
+      "department": "Engineering",
+      "specialization": "Full-stack Development",
+      "certifications": [
+        "AWS Solutions Architect",
+        "React Developer"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sarah Chen",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "Computer Vision",
+        "Medical AI",
+        "Python"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "X-ray Analysis System",
+        "Patient Risk Prediction"
+      ],
+      "availability": "available",
+      "department": "AI Research",
+      "specialization": "Healthcare AI",
+      "certifications": [
+        "Medical AI Specialist",
+        "Deep Learning Certificate"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Michael Rodriguez",
+      "skills": [
+        "Machine Learning",
+        "scikit-learn",
+        "pandas",
+        "HIPAA Compliance",
+        "Ensemble Methods"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Patient Risk Prediction System",
+        "Medical Data Processing",
+        "Clinical Decision Support"
+      ],
+      "availability": "available",
+      "department": "Data Science",
+      "specialization": "Healthcare Analytics",
+      "certifications": [
+        "HIPAA Certification",
+        "Data Science Professional"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emma Thompson",
+      "skills": [
+        "React Native",
+        "iOS Development",
+        "Android",
+        "Firebase",
+        "TypeScript"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Mobile Banking App",
+        "Fitness Tracker",
+        "Social Media Platform"
+      ],
+      "availability": "busy",
+      "department": "Mobile Development",
+      "specialization": "Cross-platform Mobile",
+      "certifications": [
+        "React Native Specialist"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "David Kim",
+      "skills": [
+        "DevOps",
+        "Kubernetes",
+        "Jenkins",
+        "Terraform",
+        "AWS",
+        "Docker"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Cloud Migration",
+        "CI/CD Pipeline",
+        "Infrastructure Automation"
+      ],
+      "availability": "available",
+      "department": "DevOps",
+      "specialization": "Cloud Infrastructure",
+      "certifications": [
+        "Kubernetes Administrator",
+        "AWS DevOps Engineer"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Lisa Wang",
+      "skills": [
+        "Vue.js",
+        "Node.js",
+        "MongoDB",
+        "GraphQL",
+        "JavaScript"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Content Management System",
+        "Real-time Chat App",
+        "Inventory Management"
+      ],
+      "availability": "available",
+      "department": "Frontend Development",
+      "specialization": "Modern Web Development",
+      "certifications": [
+        "Vue.js Expert"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "James Wilson",
+      "skills": [
+        "Cybersecurity",
+        "Penetration Testing",
+        "Network Security",
+        "CISSP",
+        "Ethical Hacking"
+      ],
+      "experience_years": 8,
+      "projects": [
+        "Security Audit",
+        "Vulnerability Assessment",
+        "Security Framework Implementation"
+      ],
+      "availability": "available",
+      "department": "Security",
+      "specialization": "Information Security",
+      "certifications": [
+        "CISSP",
+        "CEH",
+        "Security+"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Maria Garcia",
+      "skills": [
+        "UX Design",
+        "Figma",
+        "User Research",
+        "Prototyping",
+        "A/B Testing"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Mobile App Redesign",
+        "User Experience Optimization",
+        "Design System"
+      ],
+      "availability": "available",
+      "department": "Design",
+      "specialization": "User Experience",
+      "certifications": [
+        "UX Design Professional",
+        "Google UX Certificate"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Robert Brown",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Apache Kafka",
+        "Redis"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Microservices Architecture",
+        "Payment Processing System",
+        "Order Management"
+      ],
+      "availability": "available",
+      "department": "Backend Development",
+      "specialization": "Enterprise Java",
+      "certifications": [
+        "Oracle Java Certified",
+        "Spring Professional"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Jennifer Lee",
+      "skills": [
+        "Data Analytics",
+        "Tableau",
+        "SQL",
+        "Power BI",
+        "Business Intelligence"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Sales Dashboard",
+        "Customer Insights Platform",
+        "Revenue Analytics"
+      ],
+      "availability": "available",
+      "department": "Business Intelligence",
+      "specialization": "Data Visualization",
+      "certifications": [
+        "Tableau Desktop Specialist",
+        "Microsoft Power BI"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Alex Kumar",
+      "skills": [
+        "Blockchain",
+        "Solidity",
+        "Web3",
+        "Ethereum",
+        "Smart Contracts"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "DeFi Platform",
+        "NFT Marketplace",
+        "Cryptocurrency Wallet"
+      ],
+      "availability": "available",
+      "department": "Blockchain",
+      "specialization": "Web3 Development",
+      "certifications": [
+        "Certified Blockchain Developer"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Sophie Turner",
+      "skills": [
+        "QA Testing",
+        "Selenium",
+        "Test Automation",
+        "JIRA",
+        "API Testing"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Test Automation Framework",
+        "Mobile Testing Suite",
+        "Performance Testing"
+      ],
+      "availability": "available",
+      "department": "Quality Assurance",
+      "specialization": "Test Automation",
+      "certifications": [
+        "ISTQB Certified",
+        "Selenium WebDriver"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Carlos Martinez",
+      "skills": [
+        "Product Management",
+        "Agile",
+        "Scrum",
+        "Product Strategy",
+        "User Stories"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Product Roadmap",
+        "Feature Planning",
+        "Market Research"
+      ],
+      "availability": "available",
+      "department": "Product",
+      "specialization": "Product Strategy",
+      "certifications": [
+        "Certified Scrum Product Owner",
+        "Product Management Certificate"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Rachel Adams",
+      "skills": [
+        "Go",
+        "gRPC",
+        "Distributed Systems",
+        "Redis",
+        "PostgreSQL"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "High-Performance API",
+        "Distributed Cache System",
+        "Real-time Analytics"
+      ],
+      "availability": "available",
+      "department": "Backend Development",
+      "specialization": "High-Performance Systems",
+      "certifications": [
+        "Go Programming Expert"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Thomas Anderson",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Mobile Development",
+        "Firebase",
+        "API Integration"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Cross-platform App",
+        "E-commerce Mobile App",
+        "Social Networking App"
+      ],
+      "availability": "available",
+      "department": "Mobile Development",
+      "specialization": "Flutter Development",
+      "certifications": [
+        "Flutter Certified Developer"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Nina Patel",
+      "skills": [
+        "Rust",
+        "WebAssembly",
+        "Systems Programming",
+        "Performance Optimization",
+        "Low-level Programming"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "High-Performance Engine",
+        "WebAssembly Module",
+        "System Optimization"
+      ],
+      "availability": "available",
+      "department": "Systems Programming",
+      "specialization": "Performance Engineering",
+      "certifications": [
+        "Rust Programming Expert"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Daniel Wright",
+      "skills": [
+        "AI/ML",
+        "NLP",
+        "BERT",
+        "Transformers",
+        "Hugging Face"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Chatbot Development",
+        "Text Classification",
+        "Sentiment Analysis"
+      ],
+      "availability": "available",
+      "department": "AI Research",
+      "specialization": "Natural Language Processing",
+      "certifications": [
+        "NLP Professional",
+        "AI/ML Engineer"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ashley Davis",
+      "skills": [
+        "Ruby on Rails",
+        "PostgreSQL",
+        "API Development",
+        "Test-Driven Development",
+        "Agile"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Web Application Backend",
+        "RESTful API",
+        "Database Optimization"
+      ],
+      "availability": "available",
+      "department": "Backend Development",
+      "specialization": "Ruby Development",
+      "certifications": [
+        "Ruby on Rails Expert"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Kevin Zhang",
+      "skills": [
+        "Angular",
+        "TypeScript",
+        "RxJS",
+        "NgRx",
+        "Single Page Applications"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Enterprise Dashboard",
+        "Admin Panel",
+        "Data Visualization Platform"
+      ],
+      "availability": "available",
+      "department": "Frontend Development",
+      "specialization": "Angular Development",
+      "certifications": [
+        "Angular Certified Developer"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Samantha Green",
+      "skills": [
+        "Cloud Architecture",
+        "Azure",
+        "Serverless",
+        "Lambda Functions",
+        "Cloud Security"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Cloud Migration Strategy",
+        "Serverless Architecture",
+        "Multi-cloud Setup"
+      ],
+      "availability": "available",
+      "department": "Cloud Engineering",
+      "specialization": "Cloud Architecture",
+      "certifications": [
+        "Azure Solutions Architect",
+        "Cloud Security Professional"
+      ]
+    }
+  ]
+}
