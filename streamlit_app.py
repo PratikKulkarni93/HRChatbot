@@ -290,7 +290,7 @@ def main():
     st.markdown("---")
     st.markdown(
         "Built with ❤️ using FastAPI, Streamlit, and RAG technology | "
-        "[View on GitHub](https://github.com/your-repo/hr-chatbot)"
+        "[View on GitHub](https://github.com/PratikKulkarni93/HRChatbot.git)"
     )
 
 if __name__ == "__main__":

@@ -62,9 +62,10 @@ class HRChatbot:
         api_key = os.getenv('OPENAI_API_KEY')
         if api_key:
             openai.api_key = api_key
-            self.openai_client = openai
+            self.openai_client =openai
             logger.info("OpenAI client initialized")
         else:
+            # self.openai_client = None
             logger.warning("OpenAI API key not found. RAG responses will be template-based.")
 
     def create_employee_text(self, employee):
@@ -173,7 +174,7 @@ class HRChatbot:
             relevant experience and skills.
             """
 
-            response = self.openai_client.ChatCompletion.create(
+            response = self.openai.chat.completion.create(
                 model="gpt-3.5-turbo",
                 messages=[
                     {"role": "system", "content": "You are a helpful HR assistant."},
